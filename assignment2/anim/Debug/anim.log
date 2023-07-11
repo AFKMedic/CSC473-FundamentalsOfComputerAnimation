@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  partSim.cpp
+C:\Users\Chris\OneDrive\UVIC\CSC 473\Assignment 2\code\anim\partSim.cpp(128): warning C4715: 'ParticleSimulator::command': not all control paths return a value
+  anim.vcxproj -> C:\Users\Chris\OneDrive\UVIC\CSC 473\Assignment 2\code\Build\anim.exe

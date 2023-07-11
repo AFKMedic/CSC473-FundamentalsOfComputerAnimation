@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  texture.cpp
+  GLModel.cpp
+  Generating Code...
+  GLModel.vcxproj -> C:\Users\Chris\OneDrive\UVIC\CSC 473\Assignment 2\code\lib\GLModel.lib
